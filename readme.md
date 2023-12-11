@@ -6,3 +6,4 @@
 * [spatial regression](https://sustainability-gis.readthedocs.io/en/2022/lessons/L4/spatial_regression.html#spatially-lagged-exogenous-regressors-wx)
 * [hvplot problem](https://stackoverflow.com/questions/75591467/geopandas-has-no-attribute-hvplot)
 * [hvplot polygon](https://hvplot.holoviz.org/reference/geopandas/polygons.html)
+* [Moran Explain](https://gis.stackexchange.com/questions/421403/using-weight-component-in-moran-i-calculation)
